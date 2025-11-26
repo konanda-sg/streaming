@@ -186,8 +186,10 @@ https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
 #EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="" group-title="China",iQIYI
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd 
-##https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1006/default_ott.mpd 
+https://feb483bc40ee4306a87c48b45452606f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH12-dash/default_ott.mpd
+#####https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd 
+#####https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1006/default_ott.mpd 
+#####https://mt12.aa.astro.com.my/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -236,7 +238,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
 #EXTINF:-1 tvg-id="306.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAEC_2024.png" group-logo="" group-title="China",AEC
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2400/default_ott.mpd 
+https://6d89103bd71249868d55d5f309068b0c.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH13-dash/default_ott.mpd
+#####https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2400/default_ott.mpd 
 #####https://mt13.aa.astro.com.my/default_ott.mpd
 
 #####KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -259,7 +262,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
 #EXTINF:-1 tvg-id="308.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png" group-logo="" group-title="China",QJ
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2507/default_ott.mpd 
+https://07111473bdd34b7f97104ca06d6e5501.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH14-dash/default_ott.mpd
+#####https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2507/default_ott.mpd 
 #####https://mt14.aa.astro.com.my/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
