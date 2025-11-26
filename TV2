@@ -254,8 +254,10 @@ https://6d89103bd71249868d55d5f309068b0c.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
 #EXTINF:-1 tvg-id="333.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroHuaHeeDai_2024.png" group-logo="" group-title="China",Hua Hee Dai 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
+https://6ec1652dca2a480abd79cb8d75f17448.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH17-dash/default_ott.mpd
+#####https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 #####https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2308/default_ott.mpd
+#####https://mt17.aa.astro.com.my/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -727,8 +729,8 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 #EXTINF:-1 tvg-id="404.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-logo="" group-title="Movies",Boo  
 https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/default_ott.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
-https://mt08.aa.astro.com.my/default_ott.mpd
+#####https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+#####https://mt08.aa.astro.com.my/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -742,7 +744,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
 #EXTINF:-1 tvg-id="309.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="" group-title="Movies",Celestial Movies 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+https://097e581add014d15a27a94ffa1fe8ab7.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH15-dash/default_ott.mpd
+#####https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+#####https://mt15.aa.astro.com.my/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
