@@ -68,5 +68,5 @@ https://mt17.aa.astro.com.my/default_ott.mpd?PID=&PAID=2308&deviceIdType=[devIdT
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-#EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="" group-title="China",iQIYI
+#EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="" group-title="",iQIYI
 https://mt12.aa.astro.com.my/default_ott.mpd?PID=&PAID=1006&deviceIdType=[devIdType]&deviceId=4a966a1c6b45d7d70beacf9983217038&appId=astrogo.astro.com.my&appName=[appName]&devModel=[devModel]&playerWidth=[playerWidth]&playerHeight=[playerHeight]&sessionId=abr-linear-b48f3323-1a5a-4191-bbb1-73be12c72f53&optin=true&hhid=f78ce6c2b9dd742d0007aa80c67105c5&kvp=lang~chi&kvp=genre~CHINESE,HD,ALL&daiEnabled=true
