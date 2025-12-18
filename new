@@ -89,7 +89,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/mast
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=925fe1266db744a3b9524a23a6cc524b:d1266e747e241339a539e54f26890286
-#EXTINF:-1 tvg-id="211.unifi" ch-number="211" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-logo="" group-title="Korea",tvN 
+#EXTINF:-1 tvg-id="211.unifi" ch-number="211" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-logo="" group-title="",tvN 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVNHD)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
