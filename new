@@ -49,3 +49,10 @@ https://mt03.aa.astro.com.my/default_ott.mpd?PID=&PAID=2505&deviceIdType=[devIdT
 
 #EXTINF:-1 tvg-id="OKEY.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/okey_Trans.png" group-logo="" group-title="",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+#EXTINF:-1 tvg-id="122.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVS.png" group-logo="" group-title="",TVS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
