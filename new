@@ -51,8 +51,16 @@ https://mt03.aa.astro.com.my/default_ott.mpd?PID=&PAID=2505&deviceIdType=[devIdT
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
+#EXTINF:-1 tvg-id="306.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAEC_2024.png" group-logo="" group-title="",AEC
+https://mt13.aa.astro.com.my/default_ott.mpd?PID=&PAID=2400&deviceIdType=[devIdType]&deviceId=4a966a1c6b45d7d70beacf9983217038&appId=astrogo.astro.com.my&appName=[appName]&devModel=[devModel]&playerWidth=[playerWidth]&playerHeight=[playerHeight]&sessionId=abr-linear-fc5ecd65-a0a9-4294-88a2-c28ed9587939&optin=true&hhid=f78ce6c2b9dd742d0007aa80c67105c5&kvp=lang~chi&kvp=genre~HD,CHINESE,ALL&daiEnabled=true
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
-#EXTINF:-1 tvg-id="308.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png" group-logo="" group-title="China",QJ
-https://mt14.aa.astro.com.my/default_ott.mpd?PID=&PAID=2507&deviceIdType=[devIdType]&deviceId=4a966a1c6b45d7d70beacf9983217038&appId=astrogo.astro.com.my&appName=[appName]&devModel=[devModel]&playerWidth=[playerWidth]&playerHeight=[playerHeight]&sessionId=abr-linear-04a4b03e-6c70-4055-b0b9-6fbb1c610450&optin=true&hhid=f78ce6c2b9dd742d0007aa80c67105c5&kvp=lang~chi&kvp=genre~HD,CHINESE,ALL&daiEnabled=true
+#KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
+#EXTINF:-1 tvg-id="333.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroHuaHeeDai_2024.png" group-logo="" group-title="",Hua Hee Dai 
+https://mt17.aa.astro.com.my/default_ott.mpd?PID=&PAID=2308&deviceIdType=[devIdType]&deviceId=4a966a1c6b45d7d70beacf9983217038&appId=astrogo.astro.com.my&appName=[appName]&devModel=[devModel]&playerWidth=[playerWidth]&playerHeight=[playerHeight]&sessionId=abr-linear-76537f96-5421-4aeb-8d49-2ee90c0379c6&optin=true&hhid=f78ce6c2b9dd742d0007aa80c67105c5&kvp=lang~chi&kvp=genre~CHINESE,HD,ALL&daiEnabled=true
+
