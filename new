@@ -36,13 +36,6 @@ https://unifi-live27.secureswiftcontent.com/UnifiHD/live09.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
-#EXTINF:-1 tvg-id="114.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-logo="" group-title="Malaysia",Al-Hijrah
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
 #EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="" group-title="", DIDIK TV KPM
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
@@ -52,7 +45,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
 #EXTINF:-1 tvg-id="106.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" group-logo="" group-title="",Oasis
-https://mt03.aa.astro.com.my/default_ott.mpd
+https://mt03.aa.astro.com.my/default_ott.mpd?PID=&PAID=2505&deviceIdType=[devIdType]&deviceId=4a966a1c6b45d7d70beacf9983217038&appId=astrogo.astro.com.my&appName=[appName]&devModel=[devModel]&playerWidth=[playerWidth]&playerHeight=[playerHeight]&sessionId=abr-linear-c19e980a-c83b-488a-b038-7cbea0668e46&optin=true&hhid=f78ce6c2b9dd742d0007aa80c67105c5&kvp=lang~may&kvp=genre~HD,MALAY,ALL&daiEnabled=true
 
 #EXTINF:-1 tvg-id="OKEY.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/okey_Trans.png" group-logo="" group-title="",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
