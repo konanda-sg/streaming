@@ -81,6 +81,20 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Celestial)/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=22fdfcf5cb304eb6b2ebbecbca9c9d10:b7c4f0ab8bc0bd4deabe73cf75dfa537
+#EXTINF:-1 tvg-id="333.unifi" ch-number="333" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202509/20250929/33/013526401143f862175c.png" group-logo="" group-title="",Zee Cinema 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeCinema)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=06e1831ba6f946568bdea62e67ca7317:f02c40d2006e036104f7726116861d7c
+#EXTINF:-1 tvg-id="311.unifi" ch-number="311" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202509/20250930/40/160755518385f862175c.png" group-logo="" group-title="",Zee Tamil 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeTamil)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=826e7fd2d6a14060bfea9347d96f8824:176897afb079e0cc76bc912df4cb0b6e
 #EXTINF:-1 tvg-id="462.unifi" ch-number="462" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202109/20210926/202109260228210903i7.png" group-logo="" group-title="",K+ 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/master.mpd
@@ -120,6 +134,9 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBO)/master
 #EXTINF:-1 tvg-id="402.unifi" ch-number="402" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809085829841ctl.png" group-logo="" group-title="",Hbo Hits  
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOH)/master.mpd
 
+#EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="",Miramax Movies Channel 
+https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -140,6 +157,9 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="",Movies Now
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-logo="" group-title="",MovieSphere By Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
