@@ -209,3 +209,10 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(RockEnt)/ma
 #KODIPROP:inputstream.adaptive.license_key=6f4ea7be45af4275a8d76845fb19dba5:b02208ea61a2cdbf5b09440bc3157f04
 #EXTINF:-1 tvg-id="451.unifi" ch-number="451" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png" group-logo="" group-title="",Warner  
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(WarnerTV)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="Sports",Astro Arena
+https://tvmalaysia.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH22-dash/default_primary.mpd?astro=true&aws.sessionId=0840cc26-3c01-4834-a7e2-bc36d9ee3ccb
