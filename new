@@ -113,6 +113,13 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVNHD)/mast
 #EXTINF:-1 tvg-id="201.unifi" ch-number="201" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202206/20220630/20220630160122105iu5.png" group-logo="" group-title="",tvN Movies 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+#EXTINF:-1 tvg-id="404.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-logo="" group-title="",Boo  
+https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/default_ott.mpd?astro=true&aws.sessionId=b4391c83-1a99-415e-89cb-d339059a3098
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -214,5 +221,5 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(WarnerTV)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="Sports",Astro Arena
+#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="",Astro Arena
 https://tvmalaysia.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH22-dash/default_primary.mpd?astro=true&aws.sessionId=0840cc26-3c01-4834-a7e2-bc36d9ee3ccb
