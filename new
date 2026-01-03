@@ -39,11 +39,25 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV9)/master
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
-#EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="" group-title="", DIDIK TV KPM
+#EXTINF:-1 tvg-id="107.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="" group-title="",DIDIK TV KPM
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #EXTINF:-1 tvg-id="OKEY.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/okey_Trans.png" group-logo="" group-title="",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3665ce09fcb49229602d45d1d5be4d4:eb122760bbad018974689ce1372bce26
+#EXTINF:-1 tvg-id="114.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-logo="" group-title="",TV AlHijrah 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TVAL)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe6c43961ea8401e8e8bc211b1197961:b9ce7dc616a3987e2b8900ce44735b07
+#EXTINF:-1 tvg-id="122.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png" group-logo="" group-title="",TVS
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TVS)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -173,6 +187,13 @@ https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74ecb929cd504143bb68bd0e7cac6f4e:b71cfa4590853ea63014e128ecdb4fbe
+#EXTINF:-1 tvg-id="407.unifi" ch-number="407" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202110/20211002/202110020531032952nt.png" group-logo="" group-title="",Hits Movies
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsM)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
 #EXTINF:-1 tvg-id="405.unifi" ch-number="405" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809084408736zam.png" group-logo="" group-title="",Cinemax
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cinemax)/master.mpd
@@ -228,6 +249,20 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(RockAction)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+#EXTINF:-1 tvg-id="413.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" group-title="",Showcase   
+https://23af8c67817a48d693b1bbec14ee95a0.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH20-dash/default_primary.mpd?astro=true
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2da2675c6da34253b376318ef350cf19:688c0015a6b4863f0663f25f42036800
+#EXTINF:-1 tvg-id="556.unifi" ch-number="556" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202307/20230714/2023071408091010586q.png" group-logo="" group-title="",Cartoon Network 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CartoonNet)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
 #EXTINF:-1 tvg-id="403.unifi" ch-number="403" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809090429875fc9.png" group-logo="" group-title="",Hbo Family  
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOF)/master.mpd
@@ -235,9 +270,23 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOF)/maste
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
-#EXTINF:-1 tvg-id="413.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" group-title="",Showcase   
-https://23af8c67817a48d693b1bbec14ee95a0.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH20-dash/default_primary.mpd?astro=true
+#KODIPROP:inputstream.adaptive.license_key=c3189457b38b4ed9888c5a2e763f0ab8:d4dc62e11dd1856ed4f9a26d44271d0b
+#EXTINF:-1 tvg-id="551.unifi" ch-number="551" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202305/20230501/20230501030506432ny5.png" group-logo="" group-title="",Moonbug 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Moonbug)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+#EXTINF:-1 tvg-id="554.unifi" ch-number="554" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202307/20230731/20230731161309802h25.png" group-logo="" group-title="",Nickelodeon 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe60385da93e48cda9dce2c686862462:8e7c6f6beb074f153da1b00c3cf95908
+#EXTINF:-1 tvg-id="552.unifi" ch-number="552" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202402/20240215/202402150918186623m3.png" group-logo="" group-title="",Nick Jr. 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickjr)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
