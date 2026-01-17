@@ -386,6 +386,13 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/mast
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTINF:-1 tvg-id="832.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png" group-logo="" group-title="",Cricket
+https://b500e47a210c49479f2313d1a124f855.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH31-dash/default_primary.mpd?astro=true
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
 #EXTINF:-1 tvg-id="831.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-logo="" group-title="",Golf
 https://e5737a9994b9402ea7137beeec8b279b.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH30-dash/default_primary.mpd?astro=true
@@ -453,11 +460,3 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/mas
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 #EXTINF:-1 tvg-id="404.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-logo="" group-title="",Boo  
 #####https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/default_primary.mpd?astro=true
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-#EXTINF:-1 tvg-id="832.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png" group-logo="" group-title="",Cricket
-#####https://b500e47a210c49479f2313d1a124f855.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH31-dash/default_primary.mpd?astro=true
-
