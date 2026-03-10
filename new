@@ -265,6 +265,20 @@ https://23af8c67817a48d693b1bbec14ee95a0.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-id="556.unifi" ch-number="556" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202307/20230714/2023071408091010586q.png" group-logo="" group-title="",Cartoon Network 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CartoonNet)/master.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
+#EXTINF:-1 tvg-id="553.unifi" ch-number="553" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9784F0AC-A9BC-4C93-8D22-023403A38B7B/0-16x9.png?width=160&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Cbeebies
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cbeebies)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
+#EXTINF:-1 tvg-id="550.unifi" ch-number="550" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png" group-logo="" group-title="",DreamWorks
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Dreamworks)/master.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -380,8 +394,9 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/mast
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
 #EXTINF:-1 tvg-id="711.unifi" ch-number="711" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202208/20220812/20220812083713068j19.png" group-logo="" group-title="",beIN Sport 4
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -454,6 +469,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/mas
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 #EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-logo="" group-title="",Siar
 #####https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
