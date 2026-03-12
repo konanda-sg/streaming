@@ -441,18 +441,19 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/mas
 ###############################################################################################################################################################################################################################################################################
 
 
-#EXTINF:-1 group-title="UNIFI-TV",TVB翡翠台
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98a7777c449e411f95a3441a014b43cb:682736567be5f2c0a0ae6120d06a59d7
+#EXTINF:-1 tvg-id="" ch-number="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EA67DBDB-6A52-4D0C-A0ED-F390183F0E70/0-16x9.png?width=190&updatedTime=0&dt=Web" group-logo="" group-title="Cina",TVB Jade
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tvbjade)/master.mpd
 
-#EXTINF:-1 group-title="UNIFI-TV",TVB星河双语
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4548ce69a714947b7cc397a64e31139:248c84e70fd360e45006760baad12ecc
+#EXTINF:-1 tvg-id="" ch-number="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7509514-749E-4782-9521-8A07E81A07B2/0-16x9.png?width=190&updatedTime=0&dt=Web" group-logo="" group-title="Cina",TVB Xinghe
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tvbxinghe)/master.mpd
 
 #EXTINF:-1 group-title="UNIFI-TV",天映频道双语
