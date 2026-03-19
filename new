@@ -100,6 +100,13 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Sensasi)/ma
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SIAR)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
+#EXTINF:-1 tvg-id="141" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Siar
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Pesona)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
@@ -173,7 +180,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tvbjade)/ma
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4548ce69a714947b7cc397a64e31139:248c84e70fd360e45006760baad12ecc
-#EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7509514-749E-4782-9521-8A07E81A07B2/0-16x9.png?width=190&updatedTime=0&dt=Web" group-logo="" group-title="",TVB Xinghe
+#EXTINF:-1 tvg-id="000" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7509514-749E-4782-9521-8A07E81A07B2/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",TVB Xinghe
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tvbxinghe)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -194,15 +201,22 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Seti)/maste
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=22fdfcf5cb304eb6b2ebbecbca9c9d10:b7c4f0ab8bc0bd4deabe73cf75dfa537
-#EXTINF:-1 tvg-id="333.unifi" ch-number="333" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202509/20250929/33/013526401143f862175c.png" group-logo="" group-title="",Zee Cinema 
+#EXTINF:-1 tvg-id="333" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/80C77245-57B4-4DA8-8C30-4A0A2DB30D1B/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Zee Cinema 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeCinema)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=06e1831ba6f946568bdea62e67ca7317:f02c40d2006e036104f7726116861d7c
-#EXTINF:-1 tvg-id="311.unifi" ch-number="311" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202509/20250930/40/160755518385f862175c.png" group-logo="" group-title="",Zee Tamil 
+#EXTINF:-1 tvg-id="311" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/0331DB51-F701-463B-8C3D-67595A11BA8E/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Zee Tamil 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeTamil)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd7282e920e5437a9b1f01bc6f81795c:99763370f0763b0f7119aab091cc70c8
+#EXTINF:-1 tvg-id="302" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/DD728749-B762-4F91-81F8-EA1016F97EF3/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Zee Thirai
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeThi)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -215,21 +229,21 @@ https://de6fd67c76a84e6c94aec45e5b113798.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=826e7fd2d6a14060bfea9347d96f8824:176897afb079e0cc76bc912df4cb0b6e
-#EXTINF:-1 tvg-id="462.unifi" ch-number="462" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202109/20210926/202109260228210903i7.png" group-logo="" group-title="",K+ 
+#EXTINF:-1 tvg-id="462" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B8D0D9CC-B198-469A-9AAE-87DAE8A4DDB4/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",K+ 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=925fe1266db744a3b9524a23a6cc524b:d1266e747e241339a539e54f26890286
-#EXTINF:-1 tvg-id="211.unifi" ch-number="211" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-logo="" group-title="",tvN 
+#EXTINF:-1 tvg-id="211" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E81EA250-61A3-4778-9E6D-4648A2E391A1/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",tvN 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVNHD)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
-#EXTINF:-1 tvg-id="201.unifi" ch-number="201" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202206/20220630/20220630160122105iu5.png" group-logo="" group-title="",tvN Movies 
+#EXTINF:-1 tvg-id="201" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8D56EE30-95BC-4047-B13F-CF2E5C5F84F8/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",tvN Movies 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
