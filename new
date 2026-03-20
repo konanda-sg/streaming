@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
 
 
@@ -371,40 +371,100 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon
 #EXTINF:-1 tvg-id="552" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/27A246D6-BEAD-43F8-89AE-12FB781954FD/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Nick Jr. 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickjr)/master.mpd
 
+#EXTINF:-1 group-title="UNIFI-TV",SonyYay
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=582e9e382cb0495886afbabdbdb6fbf7:c0f550839b235443724cd007392b6e40
+#EXTINF:-1 tvg-id="303" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/BD814A07-3CF5-4686-B552-31FF782BB8F7/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",SonyYay 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(SonyYay)/master.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4345340d92d64788bef7d99594cbe643:c67f6e21ebbd520e31d4141b771d3867
-#EXTINF:-1 tvg-id="453.unifi" ch-number="453" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202109/20210927/2021092701574706798y.png" group-logo="" group-title="",Axn 
+#EXTINF:-1 tvg-id="453" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/568841DF-E3B3-454A-9521-11813C6C0954/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Axn 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(AXN)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=196b011306d04ac38c2b8493b89a40d5:862064c3fbd5f4d2e8a9e7b89889a06b
-#EXTINF:-1 tvg-id="454.unifi" ch-number="454" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202406/20240606/20240606024112666rfx.png" group-logo="" group-title="",Hits  
+#EXTINF:-1 tvg-id="454" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E55E65A4-6CCD-4A8B-8132-1727470820F4/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Hits  
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HITS)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c350232d50f46dcb776ea6d12f875d2:9469ab183f965894e038e2c137f0faa0
-#EXTINF:-1 tvg-id="452.unifi" ch-number="452" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202312/20231215/20231215075850694132.png" group-logo="" group-title="",Hits Now
+#EXTINF:-1 tvg-id="452" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AB981083-F9B7-45F0-A28E-F6DCC3DAF10A/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Hits Now
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsnow)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6bbe30dc7d7949849ba0c4f2abb2a3ff:9eb316564523faecf7d5b2fef8081007
-#EXTINF:-1 tvg-id="473.unifi" ch-number="473" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-logo="" group-title="",Rock Entertainment
+#EXTINF:-1 tvg-id="473" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/3A21C3E7-8514-4978-BEAA-6EE4DAB2C5B8/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Rock Entertainment
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(RockEnt)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f4ea7be45af4275a8d76845fb19dba5:b02208ea61a2cdbf5b09440bc3157f04
-#EXTINF:-1 tvg-id="451.unifi" ch-number="451" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png" group-logo="" group-title="",Warner  
+#EXTINF:-1 tvg-id="451" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7C14DEDF-68C8-447B-B1D7-5CB170AF3CF3/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Warner  
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(WarnerTV)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+#EXTINF:-1 tvg-id="708" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",beIN Sport 1
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+#EXTINF:-1 tvg-id="709" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",beIN Sport 2
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+#EXTINF:-1 tvg-id="710" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/03E8ED19-B3A5-44F1-9176-4EC1FD68B0A1/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",beIN Sport 3
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
+#EXTINF:-1 tvg-id="711" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C0FFC072-D51A-4676-B232-F1C06BFA87D1/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",beIN Sport 4
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
+#EXTINF:-1 tvg-id="706" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/75E45C13-621B-44EB-86F1-35C8C3DCB7E1/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Spotv
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spoTV)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
+#EXTINF:-1 tvg-id="707" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6E16A3C6-3131-4199-B8F2-467F023E14BE/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Spotv 2
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spoTV2)/master.mpd
+
+#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/sukan_Trans.png" group-logo="" group-title="",Sukan RTM
+https://raw.githubusercontent.com/mystery75/m3u8/main/SUKANRTM.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
+#EXTINF:-1 tvg-id="701" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/28EEC6E6-98AD-44E7-8CF3-101111099742/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Unifi Sports
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -437,34 +497,6 @@ https://6ff3674dea9d4f99b1b05c2ebcb299fe.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
-#EXTINF:-1 tvg-id="708.unifi" ch-number="708" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202409/20240930/20240930160227557ix6.png" group-logo="" group-title="",beIN Sport 1
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
-#EXTINF:-1 tvg-id="709.unifi" ch-number="709" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202212/20221221/20221221082841690jit.png" group-logo="" group-title="",beIN Sport 2
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
-#EXTINF:-1 tvg-id="710.unifi" ch-number="710" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202204/20220422/202204220814593293cl.png" group-logo="" group-title="",beIN Sport 3
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
-#EXTINF:-1 tvg-id="711.unifi" ch-number="711" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202208/20220812/20220812083713068j19.png" group-logo="" group-title="",beIN Sport 4
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 #EXTINF:-1 tvg-id="832.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png" group-logo="" group-title="",Cricket
 https://b500e47a210c49479f2313d1a124f855.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH31-dash/default_primary.mpd?astro=true
@@ -476,33 +508,103 @@ https://b500e47a210c49479f2313d1a124f855.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-id="831.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-logo="" group-title="",Golf
 https://e5737a9994b9402ea7137beeec8b279b.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH30-dash/default_primary.mpd?astro=true
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
-#EXTINF:-1 tvg-id="706.unifi" ch-number="706" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202109/20210930/20210930184212950ddn.png" group-logo="" group-title="",Spotv
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spoTV)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=5381b805544744d8b6344de564d327f5:d5fa0ec68c6a7c86c19f630cfd353606
+#EXTINF:-1 tvg-id="501" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/06456101-BAA6-40B9-AA17-81B113B0E289/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",BBC Earth
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(BBCEarth)/master.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
-#EXTINF:-1 tvg-id="707.unifi" ch-number="707" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-logo="" group-title="",Spotv 2
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spoTV2)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=3af2407f93664272a2b0c24be3632d93:6504d3e04a92a7d0d0d36818f477cae4
+#EXTINF:-1 tvg-id="502" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Love Nature
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(LoveNature)/master.mpd
 
-#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/sukan_Trans.png" group-logo="" group-title="",Sukan RTM
-https://raw.githubusercontent.com/mystery75/m3u8/main/SUKANRTM.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
-#EXTINF:-1 tvg-id="701.unifi" ch-number="701" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-logo="" group-title="",Unifi Sports
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=143c537a533b4e53a7137703bc92c0f2:551cc5be6820a5b44d099dc7ace177f0
+#EXTINF:-1 tvg-id="511" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7EBC0E2-E56A-431D-B9CF-D1105908CAD3/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",HGTV
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HGTV)/master.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2610c65bf27740e29f9cc41dc3549781:12e8aaacff0fc2bd780058a5c6883a1c
+#EXTINF:-1 tvg-id="512" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7449833A-0595-4CB6-A762-FA16B2C6604C/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",BBC Lifestyle
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(BBCLife)/master.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6f69611e9e94a1cba591f855b191362:bbd319d36c1728a8e4cc6bb4a8ad12f4
+#EXTINF:-1 tvg-id="521" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85AFA58C-C399-4D78-87BF-FEB53DA2F4CD/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Asian Food Network
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(AsianFoodNetwork)/master.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6349d2165514fa38fb6f1348679ba36:1db75d2e54ff52806d84af64499685ff
+#EXTINF:-1 tvg-id="641" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F16A709A-F106-4164-8E34-DFD79461B61A/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",ABC Australia
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ABC)/master.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c0678dad08451e955a53ee95aff30f:a05ca10851a61c2933243b7169be6679
+#EXTINF:-1 tvg-id="602" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/5410FF16-4BD0-47F5-91B9-DAC673523D53/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Al Jazeera
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(AlJazeera)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0282f5cc38944bf58d8fdd9abc312339:f422861c29542fe34c866b1cd291f411
+#EXTINF:-1 tvg-id="601" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/27953737-1BD2-45A3-9187-D055D4550D6D/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",BBC News
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(BBCW)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c588bd14a1049eea04db9eea80e6c68:57a5147c8537d8c7fead448d2a9587c7
+#EXTINF:-1 tvg-id="631" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F3362D9E-20F0-483D-BA25-B3305233657A/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Bernama
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bernama)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55da3b7a04b34d93a2ce0c4e3d33a6cd:57ace0638aef039c73f23056add87781
+#EXTINF:-1 tvg-id="611" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D13F284A-4009-4A1D-964C-CCD4F25A4579/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",CNA
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CAN)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d67d585ef2ab4f1c88f33520eb06fa77:bb8f72c9606555ca4b386baeacc30fb0
+#EXTINF:-1 tvg-id="610" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8545CF4C-4493-4134-B706-13547D9B4B36/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",CGTN
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CGTN)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=67f4948cdafa46ebbd71eae875237023:9dc5b14da7c3c0d89d63bd9242c2dab0
+#EXTINF:-1 tvg-id="612" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/98415BAC-8D06-4614-8459-7C0E306DA785/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Euro News
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(EuroN)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d2decb97b1437fb29922333892c2e8:1f326af1645f96c0993b142e57db9ab7
+#EXTINF:-1 tvg-id="642" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6A3F3B67-97AB-469D-B2D8-00B6A1C5A2DD/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",DW
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DW)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1e473b4fac4c13b6bd73014a14df4e:602617c77b787b240308567f1f04df20
+#EXTINF:-1 tvg-id="643" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/83E223EF-AE4A-4E3F-A7D9-07A33B4C3A20/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",NHK WORLD
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(NHK)/master.mpd
 
 #####################################################################################################################################################################################################################
 
