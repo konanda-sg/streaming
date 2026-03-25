@@ -249,6 +249,14 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/maste
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5060ddebb51c57a1825a18ca70e24014:e61277adab8ff7dd8314ae0287556787
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="1269" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="",&Prive 
+https://tulnit.fun/jio/stream.php/AndPriveHD_MOB/WDVLive/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74ecb929cd504143bb68bd0e7cac6f4e:b71cfa4590853ea63014e128ecdb4fbe
 #EXTINF:-1 tvg-id="407" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/3C8B5AB5-8F5E-41A6-9AD2-ED9E22B460E9/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Hits Movies
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsM)/master.mpd
@@ -322,6 +330,7 @@ https://23af8c67817a48d693b1bbec14ee95a0.mediatailor.ap-southeast-1.amazonaws.co
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="762" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="",Sony Pix 
 https://tulnit.fun/jio/stream.php/SonyPIX_BTS/output/index.mpd
+#####https://tulnit.fun/sliv/stream.php?id=1000009258&e=.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -330,6 +339,14 @@ https://tulnit.fun/jio/stream.php/SonyPIX_BTS/output/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="1104" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="",Star Movies 
 https://tulnit.fun/jio/stream.php/Star_Movies_BTS/output/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="1104" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="",Star Movies HD 
+https://tulnit.fun/jio/stream.php/Star_Movies_HD_BTS/output/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
