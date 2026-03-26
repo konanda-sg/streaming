@@ -285,6 +285,13 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBO)/master
 #EXTINF:-1 tvg-id="402" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/054D31F0-3639-4ADB-AB0D-9B8621E0190D/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Hbo Hits  
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBOH)/master.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_190_85" group-logo="" group-title="",Hbo Signature 
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+
 #EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="",Miramax Movies Channel 
 https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
 
@@ -344,12 +351,13 @@ https://tulnit.fun/jio/stream.php/SonyPIX_BTS/output/index.mpd
 https://tulnit.fun/jio/stream.php/Star_Movies_BTS/output/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
+##KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="1104" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="",Star Movies HD 
-https://tulnit.fun/jio/stream.php/Star_Movies_HD_BTS/output/index.mpd
+http://103.229.254.25:7001/play/a02w/index.m3u8
+#https://tulnit.fun/jio/stream.php/Star_Movies_HD_BTS/output/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
