@@ -252,6 +252,14 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/maste
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="1267" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="",&Flix
+https://tulnit.fun/jio/stream.php/AndPriveHD_MOB/WDVLive/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5060ddebb51c57a1825a18ca70e24014:e61277adab8ff7dd8314ae0287556787
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="1269" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="",&Prive 
@@ -353,10 +361,10 @@ https://tulnit.fun/jio/stream.php/Star_Movies_BTS/output/index.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
+#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="1104" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="",Star Movies HD 
-http://103.229.254.25:7001/play/a02w/index.m3u8
+https://tulnit.fun/jio/stream.php/StarMoviesHD_BTS/output/index.mpd
 #https://tulnit.fun/jio/stream.php/Star_Movies_HD_BTS/output/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
