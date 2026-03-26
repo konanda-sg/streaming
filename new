@@ -226,7 +226,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeThi)/mas
 https://de6fd67c76a84e6c94aec45e5b113798.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH9-dash/default_primary.mpd?astro=true
 
 #EXTINF:-1 tvg-id=""GB21000038X"" tvg-logo="" group-logo="" group-title="",Genie K-Movie
-https://raw.githubusercontent.com/mystery75/m3u8/main/NEWKMOVIES.m3u8
+https://raw.githubusercontent.com/mystery75/m3u8/main/GenieKMovie.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
