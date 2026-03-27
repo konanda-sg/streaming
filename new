@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/mystery75/epg/refs/heads/main/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/mystery75/epg/main/ind.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
 
 
@@ -262,7 +262,7 @@ https://tulnit.fun/jio/stream.php/AndFlixHD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5060ddebb51c57a1825a18ca70e24014:e61277adab8ff7dd8314ae0287556787
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="1269" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="",&Prive 
+#EXTINF:-1 tvg-id="463869" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="",&Prive 
 https://tulnit.fun/jio/stream.php/AndPriveHD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
