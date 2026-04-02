@@ -344,10 +344,11 @@ https://23af8c67817a48d693b1bbec14ee95a0.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00426b6344e351f491f324a94b62cd2f:ae3a59fe9918e7180ed65e2c842f7cc8
+#####KODIPROP:inputstream.adaptive.license_key=00426b6344e351f491f324a94b62cd2f:ae3a59fe9918e7180ed65e2c842f7cc8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="762" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="",Sony Pix 
-https://jiocdn.tulnit.fun/stream.php/SonyPIX_BTS/output/index.mpd
+https://raw.githubusercontent.com/mystery75/m3u8/main/SONYp.m3u8
+#####https://jiocdn.tulnit.fun/stream.php/SonyPIX_BTS/output/index.mpd
 #####https://tulnit.fun/sliv/stream.php?id=1000009258&e=.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -356,6 +357,7 @@ https://jiocdn.tulnit.fun/stream.php/SonyPIX_BTS/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="1104" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="",Star Movies  
+https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_BTS/output/index.mpd
 https://jiocdn.tulnit.fun/stream.php/StarMoviesHD_BTS/output/index.mpd
 #https://tulnit.fun/jio/stream.php/Star_Movies_HD_BTS/output/index.mpd
 
@@ -366,6 +368,7 @@ https://jiocdn.tulnit.fun/stream.php/StarMoviesHD_BTS/output/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.mhdtvhub.com/
 #EXTINF:-1 tvg-id="1110" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-title="",Star Movies Select 
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd
 https://jiocdn.tulnit.fun/stream.php/Star_Movies_Select_HD_BTS/output/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
