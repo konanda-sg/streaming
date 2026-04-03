@@ -172,6 +172,13 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Celestial)/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+#EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="" group-title="",iQIYI
+https://feb483bc40ee4306a87c48b45452606f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH12-dash/default_primary.mpd?astro=true
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98a7777c449e411f95a3441a014b43cb:682736567be5f2c0a0ae6120d06a59d7
 #EXTINF:-1 tvg-id="231" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EA67DBDB-6A52-4D0C-A0ED-F390183F0E70/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",TVB Jade
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tvbjade)/master.mpd
