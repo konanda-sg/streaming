@@ -245,6 +245,13 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/NEWKMOVIES.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTINF:-1 tvg-id="ONEHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png" group-logo="" group-title="",ONe
+https://slive.mana2.my/OneHD/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=925fe1266db744a3b9524a23a6cc524b:d1266e747e241339a539e54f26890286
 #EXTINF:-1 tvg-id="211" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E81EA250-61A3-4778-9E6D-4648A2E391A1/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",tvN 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVNHD)/master.mpd
@@ -255,15 +262,6 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVNHD)/mast
 #KODIPROP:inputstream.adaptive.license_key=52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
 #EXTINF:-1 tvg-id="201" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8D56EE30-95BC-4047-B13F-CF2E5C5F84F8/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",tvN Movies 
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVnM)/master.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#####KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="464142" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="",&Flix
-https://mysouq1.com/76631957/10205687/253
-#####https://jiocdn.tulnit.fun/stream.php/AndFlixHD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -386,6 +384,13 @@ https://mysouq1.com/76631957/10205687/218
 #KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
 #EXTINF:-1 tvg-id="472" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Animax
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Animax)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTINF:-1 tvg-id="ANIPLUS HD" tvg-logo="https://www.anipluscafe.com/vanitas/wp-content/uploads/2019/11/logo-white.png" group-logo="" group-title="",AniPlus
+https://slive.mana2.my/AniPlus/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
