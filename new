@@ -24,21 +24,21 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
 #EXTINF:-1 tvg-id="108" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9C66E114-6607-4EB2-9F11-DE0F25C161EE/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",8TV
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master.mpd?encoded=06f1244b5467ed4addc27&etime=20260411011229&stime=20260409011229
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
 #EXTINF:-1 tvg-id="109" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/01A5D01A-1DAE-4E0F-8003-0B570E9F474E/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",TV9
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV9)/master.mpd 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV9)/master.mpd?encoded=0cc9a65943a4517f492bd&etime=20260411011305&stime=20260409011305
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
 #EXTINF:-1 tvg-id="107" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-logo="" group-title="",Didik TV
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Didik)/master.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Didik)/master.mpd?encoded=023d58b4534363659b44c&etime=20260411011048&stime=20260409011048
 
 #EXTINF:-1 tvg-id="OKEY.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/okey_Trans.png" group-logo="" group-title="",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
